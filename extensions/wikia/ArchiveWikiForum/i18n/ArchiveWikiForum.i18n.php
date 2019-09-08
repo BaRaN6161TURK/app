@@ -119,6 +119,12 @@ $messages['te'] = array(
 	'archive-wiki-forums-button-to-new-forums' => 'కొత్త వేదికలను చూడండి',
 );
 
+$messages['tr'] = array(
+	'archive-wiki-forums-notification-message' => 'Bu Forum arşivlendi',
+	'archive-wiki-forums-button-to-new-forums' => 'Yeni Forumları ziyaret et',
+	'archive-wiki-forums-button-to-discussions' => 'Tartışmaları Ziyaret Et',
+);
+
 $messages['uk'] = array(
 	'archive-wiki-forums-notification-message' => 'Цей форум вже заархівований',
 	'archive-wiki-forums-button-to-new-forums' => 'Відвідайте нові форуми',
