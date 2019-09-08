@@ -9,3 +9,7 @@ $messages['en'] = array(
 $messages['qqq'] = array(
 	'analyticsengine-desc' => '{{desc}}',
 );
+
+$messages['tr'] = array(
+	'analyticsengine-desc' => 'Çeşitli analitik verileri elde etmenin bir yolunu sağlar',
+);
