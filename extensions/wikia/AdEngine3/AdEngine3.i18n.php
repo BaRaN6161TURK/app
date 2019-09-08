@@ -224,6 +224,7 @@ $messages['th'] = array(
 
 $messages['tr'] = array(
 	'adengine-advertisement' => 'reklam',
+	'adengine-desc' => "Wikia'nın Reklam Motoru",
 );
 
 $messages['tt-cyrl'] = array(
