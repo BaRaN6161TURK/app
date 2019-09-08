@@ -9,3 +9,7 @@ $messages['en'] = array(
 $messages['qqq'] = array(
 	'apidocs-desc' => '{{desc}}',
 );
+
+$messages['tr'] = array(
+	'apidocs-desc' => 'API Dökümanı',
+);
