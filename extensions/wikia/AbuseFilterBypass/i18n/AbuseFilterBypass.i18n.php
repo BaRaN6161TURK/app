@@ -15,3 +15,7 @@ $messages['fr'] = [
 	'abusefilterbypass-desc' => 'Permet aux utilisateurs privilégiés de ne pas être bloqués par les filtres anti-abus (AbuseFilter)',
 ];
 
+$messages['tr'] = [
+	'abusefilterbypass-desc' => 'Ayrıcalıklı kullanıcıların tüm kötüye kullanım filtresi filtrelerini atlamasına izin verir',
+	'right-abusefilter-bypass' => 'Tüm kötüye kullanım filtrelerini atla',
+];
