@@ -35,3 +35,7 @@ $messages['fr'] = [
 	'antispaminput-msg' => 'Mécanisme simple de blocage des robots de spam',
 ];
 
+$messages['tr'] = [
+	'antispam_label' => 'Bu alan bir spam tuzağı. <strong>SAKIN</strong> doldurmayın!',
+	'antispaminput-msg' => 'Basit spambot engelleme mekanizması.',
+];
