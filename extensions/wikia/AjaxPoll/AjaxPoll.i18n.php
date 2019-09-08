@@ -716,6 +716,7 @@ $messages['tl'] = array(
 );
 
 $messages['tr'] = array(
+	'ajaxpoll-desc' => 'Ajax istekleri tarafından yönlendirilen MediaWiki için anket uzantısı',
 	'ajaxpoll-percentVotes' => 'Tüm oylarda:&nbsp;$1%',
 	'ajaxpoll-thankyou' => 'Oy verdiğiniz için teşekkür ederiz!',
 	'ajaxpoll-error' => 'Oyunuz işleme alınırken bir sorun oluştu, lütfen tekrar deneyiniz.',
