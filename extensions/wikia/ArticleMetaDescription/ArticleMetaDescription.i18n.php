@@ -14,3 +14,7 @@ $messages['fr'] = [
 	'articlemetadescription-desc' => 'Ajoute la balise meta-description contenant un extrait d\'article, fournit par ArticleService',
 ];
 
+$messages['tr'] = [
+	'articlemetadescription-desc' => 'ArticleService tarafından sağlanan, Makale pasajını içeren meta-açıklama etiketi eklendi.',
+];
+
