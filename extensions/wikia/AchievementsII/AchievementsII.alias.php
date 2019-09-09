@@ -37,3 +37,12 @@ $specialPageAliases['fr'] = array(
 $specialPageAliases['ja'] = array(
 	'AchievementsCustomize' => array( 'アチーブメントカスタマイズ' ),
 );
+
+$specialPageAliases = array();
+
+/** Turkish (Türkçe) */
+$specialPageAliases['en'] = array(
+	'Platinum' => array( 'Platin' ),
+	'Leaderboard' => array( 'LiderTablosu' ),
+	'AchievementsCustomize' => array( 'BaşarılarÖzelleştir' ),
+);
