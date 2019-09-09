@@ -210,6 +210,26 @@ $messages['ru'] = array(
 	'google-connect-account-disconnected' => 'Ваш аккаунт Google был отключён от вашей учётной записи на ФЭНДОМЕ.',
 );
 
+$messages['tr'] = array(
+	'prefs-fbconnect-disconnect-prefstext' => 'Facebook\'dan bağlantıyı kes',
+	'fbconnect-convert' => 'Bu hesabı Facebook \'a bağla',
+	'fbconnect-disconnect-info' => 'Facebook hesabınızın FANDOM hesabınızla bağlantısı başarıyla kesildi.',
+	'fbconnect-unknown-error' => 'Bilinmeyen hata, lütfen tekrar deneyin.',
+	'prefs-fbconnect-prefstext' => 'Facebook\'a bağlan',
+	'prefs-auth-prefstext' => 'Bağlanmış Hesaplar',
+	'prefs-auth-connections-prefstext' => 'Bağlantılar',
+	'fbconnect-disconnect-account-link' => 'FANDOM hesabınız şu anda Facebook\'a bağlı. FANDOM hesabınızı Facebook\'[[#|bağlantısını kesebilirsiniz]]. FANDOM hesabınızı her zamanki gibi kullanmaya devam edebileceksiniz, tarihçeniz (düzenlemeler, puanlar, başarılar) bozulmadan.',
+	'fbconnect-error-fb-account-in-use' => 'Bu Facebook hesabı zaten başka bir FANDOM kullanıcı hesabına bağlı. Lütfen farklı bir hesapla bağlanın veya Facebook ile giriş yapın ve $1 hesabını bağlamadan önce orijinal FANDOM hesabının bağlantısını kesin.',
+	'fbconnect-preferences-connected' => 'Tebrikler! FANDOM ve Facebook hesaplarınız şimdi bağlandı.',
+	'fbconnect-preferences-connected-error' => "Üzgünüz, bağlantınızı tamamlayamadık. Lütfen FANDOM hesabınıza giriş yaptığınızdan ve Facebook ile bağlantı kurmak için FANDOM'a izin verdiğinizden emin olun.",
+	'google-connect-account-connected' => 'Congratulations! FANDOM ve Google hesaplarınız artık bağlandı.',
+	'google-connect-account-disconnected' => 'Google hesabınız, FANDOM hesabınızla başarıyla kesildi.',
+	'google-connect-unknown-error' => "Üzgünüz, bağlantınızı tamamlayamadık. Lütfen FANDOM hesabınıza giriş yaptığınızdan ve Google ile bağlantı kurmak için FANDOM\'a izin verdiğinizden emin olun.",
+	'twitch-connect-account-connected' => 'Tebrikler! FANDOM ve Twitch hesaplarınız şimdi bağlandı.',
+	'twitch-connect-account-disconnected' => 'Twitch hesabınızın FANDOM hesabınızla bağlantısı başarıyla kesildi.',
+	'twitch-connect-unknown-error' => "Üzgünüz, bağlantınızı tamamlayamadık. Lütfen FANDOM hesabınıza giriş yaptığınızdan ve Twitch ile bağlantı kurmak için FANDOM izni verdiğinizden emin olun.",
+);
+
 $messages['vi'] = array(
 	'prefs-fbconnect-disconnect-prefstext' => 'Ngắt kết nối Facebook',
 	'fbconnect-convert' => 'Kết nối tài khoản này với Facebook',
