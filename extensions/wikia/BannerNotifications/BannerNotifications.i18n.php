@@ -186,6 +186,13 @@ $messages['tl'] = array(
 	'bannernotifications-general-ajax-failure' => 'Hindi makakunekta sa Wikia ang pantingin-tingin. Subukan ulit mamaya.',
 );
 
+$messages['tr'] = array(
+	'bannernotifications-desc' => 'AJAX hataları gibi olaylar için sistem bildirimlerini görüntüler',
+	'bannernotifications-general-ajax-failure' => 'Tarayıcı FANDOM\'a bağlanamadı. Daha sonra tekrar deneyin.',
+	'bannernotifications-not-confirmed-email' => "E-posta adresin onaylanmadı. Gelen kutunuzda bir onay mesajı bulunmalıdır. Yeni bir tane göndermemiz gerekiyorsa, lütfen [[Special:ConfirmEmail|buraya tıklayın]]. E-postanızı değiştirmeniz gerekirse, [[Special:Preferences# mw-prefsection-emailv2|Tercihler sayfası]] bölümüne gidin.",
+	'bannernotifications-no-email' => 'Hesabınızda onaylanmış bir e-posta adresi yok. Lütfen e-postanızı [[Special:Preferences#mw-prefsection-emailv2|Tercihler sayfası]] üzerinden ayarlayın.',
+);
+
 $messages['tt-cyrl'] = array(
 	'bannernotifications-desc' => 'AJAX хаталары кебек вакыйгалар өчен система хәбәрләрен күрсәтә',
 	'bannernotifications-general-ajax-failure' => 'Браузер Викия белән тоташа алмады. Соңрак кереп карагыз.',
