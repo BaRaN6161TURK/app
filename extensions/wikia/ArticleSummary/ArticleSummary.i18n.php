@@ -14,3 +14,6 @@ $messages['fr'] = [
 	'articlesummary-desc' => 'Une extension pour renvoyer les informations sur le résumé d\'un article',
 ];
 
+$messages['tr'] = [
+	'articlesummary-desc' => 'Makale özet bilgilerini sunacak bir uzantı',
+];
