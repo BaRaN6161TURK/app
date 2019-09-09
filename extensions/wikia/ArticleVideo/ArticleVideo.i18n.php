@@ -101,6 +101,16 @@ $messages['ru'] = array(
 	'articlevideo-preference-option-disable-featured-video' => 'Не показывать все видео',
 );
 
+$messages['tr'] = array(
+	'articlevideo-watch' => 'izle',
+	'articlevideo-feedback-question' => 'Bu videoyu sevdin mi?',
+	'articlevideo-attribution-from' => 'dan',
+	'articlevideo-preference-label' => 'Öne Çıkan Video',
+	'articlevideo-preference-option-show-featured-video' => 'Tüm videoları göster',
+	'articlevideo-preference-option-disable-featured-video' => "Tüm videoları gösterme",
+	'right-showfeaturedvideo' => 'Her zaman öne çıkan videoları göster',
+);
+
 $messages['zh-hans'] = array(
 	'articlevideo-watch' => '观看',
 	'articlevideo-feedback-question' => '你喜欢这个视频吗？',
