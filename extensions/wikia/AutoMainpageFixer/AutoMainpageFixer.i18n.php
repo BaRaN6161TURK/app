@@ -14,3 +14,6 @@ $messages['fr'] = [
 	'automainpagefixer-desc' => 'Maintient MediaWiki:Mainpage à jour quand la page d\'accueil est renommée',
 ];
 
+$messages['tr'] = [
+	'automainpagefixer-desc' => 'Ana sayfa taşınırken MediaWiki:Mainpage güncel tutar.',
+];
