@@ -30,6 +30,13 @@ $specialPageAliases['pl'] = array(
 );
 
 /**
+ * Turkish (Türkçe)
+ */
+$specialPageAliases['tr'] = array(
+	'AdminDashboard' => array( 'YöneticiPaneli' ),
+);
+
+/**
  * Vietnamese (Tiếng Việt)
  */
 $specialPageAliases['vi'] = array(
