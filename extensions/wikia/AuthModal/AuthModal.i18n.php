@@ -45,6 +45,10 @@ $messages['ru'] = array(
 	'authmodal-registration-success' => 'Добро пожаловать, $1! Ваша учётная запись на Фэндоме была успешно создана.',
 );
 
+$messages['tr'] = array(
+	'authmodal-registration-success' => 'Hoşgeldiniz $1! FANDOM hesabınız başarıyla oluşturuldu.',
+);
+
 $messages['zh-hans'] = array(
 	'authmodal-registration-success' => '欢迎您，$1！您的FANDOM帐户已成功创建。',
 );
