@@ -14,3 +14,6 @@ $messages['fr'] = [
 	'assestsmanager-desc' => 'Une extension pour renvoyer diverses informations',
 ];
 
+$messages['tr'] = [
+	'assestsmanager-desc' => 'Çeşitli varlıklara hizmet verecek bir uzantı',
+];
