@@ -19,3 +19,9 @@ $specialPageAliases['pl'] = array(
 	'UserSignup' => array( 'Zarejestruj', 'UserSignup' ),
 
 );
+
+/** Turkish (Türkçe) */
+$specialPageAliases['tr'] = array(
+	'UserSignup' => array( 'KullanıcıKaydı' ),
+
+);
