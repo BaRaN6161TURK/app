@@ -30,3 +30,15 @@ $messages['de'] = [
 	'autopagecreate-newpage-notice-user' => '<p>\'\'\'Dieser Artikel benötigt noch Informationen! Du kannst helfen, indem du einen Satz oder ein Foto einfügst!\'\'\'</p>',
 ];
 
+$messages['tr'] = [
+	'autopagecreate-desc' => 'AutoPageCreate uzantısı',
+	'autopagecreate-empty' => '-',
+	'autopagecreate-newpage-notice-content' => '\'\'\'Bu makale daha yeni başlıyor. Bir cümle veya fotoğraf ekleyerek yardım edebilirsiniz!\'\'\'',
+	'autopagecreate-newpage-notice-talk' => '\'\'\'Bu bir tartışma satfası. Neden [{{fullurl::{{FULLPAGENAME}}|action=edit&section=new}} bir tartışma başlatmıyorsunuz]?\'\'\'',
+	'autopagecreate-newpage-notice-user' => '\'\'\'Bu bir kullanıcı sayfasıdır. Bu senin mi? Neden kendinizle ilgili birkaç bilgi parçası eklemiyorsunuz?\'\'\'',
+	'autopagecreate-newpage-notice-project' => '\'\'\'Bu sayfa daha yeni başlıyor.\'\'\'',
+	'autopagecreate-newpage-notice-template' => '\'\'\'Bu şablon daha yeni başlıyor.\'\'\'',
+	'autopagecreate-newpage-notice-forum' => '\'\'\'Bu forum sayfası daha yeni başlıyor.\'\'\'',
+	'autopagecreate-newpage-notice-blog' => '\'\'\'Bu blog listeleme sayfası daha yeni başlıyor.\'\'\'',
+	'autopagecreate-newpage-notice-other' => '\'\'\'Bu sayfa daha yeni başlıyor.\'\'\'',
+];
