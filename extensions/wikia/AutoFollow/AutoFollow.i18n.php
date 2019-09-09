@@ -14,3 +14,6 @@ $messages['fr'] = [
 	'autofollow-ext-description' => 'Inscrit automatiquement un utilisateur aux listes de suivi par défaut pour sa langue',
 ];
 
+$messages['tr'] = [
+	'autofollow-ext-description' => 'Bir kullanıcıyı dili için varsayılan izleme listelerine otomatik olarak ekler.',
+];
